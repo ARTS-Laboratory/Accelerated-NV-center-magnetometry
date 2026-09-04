@@ -16,7 +16,7 @@ This work is licensed under a
 
 Cite as:
 
-@Misc{ARTS2027UltraHighrate,     
+@Misc{ARTSLab2027PaperAcceleratedNv,     
   author = {{ARTS-L}ab},  
   howpublished = {GitHub},    
   year = {2027},    
